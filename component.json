@@ -1,0 +1,9 @@
+{
+    "name": "arale-widget",
+    "version": "1.2.0",
+    "main": "widget.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/base": "master"
+    }
+}
